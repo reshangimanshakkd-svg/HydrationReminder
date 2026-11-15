@@ -5,10 +5,10 @@ export default function TipsTab() {
     <View style={styles.container}>
       <Text style={styles.header}>Why Hydrate? 🌊</Text>
 
-      <Text style={styles.tipItem}>• Boosts skin health and beauty</Text>
-      <Text style={styles.tipItem}>• Regulates body temperature</Text>
-      <Text style={styles.tipItem}>• Flushes body waste</Text>
-      <Text style={styles.tipItem}>• Maintains blood pressure</Text>
+      <Text style={styles.tipItem}>Boosts skin health and beauty</Text>
+      <Text style={styles.tipItem}>Regulates body temperature</Text>
+      <Text style={styles.tipItem}>Flushes body waste</Text>
+      <Text style={styles.tipItem}>Maintains blood pressure</Text>
     </View>
   );
 }

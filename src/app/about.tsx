@@ -12,7 +12,7 @@ export default function AboutTab() {
 
       <Text style={styles.footerText}>
         Developed with React Native and Expo.{"\n"}
-        Created by [Enter Your Name].
+        Created by Reshan Gimansha.
       </Text>
     </View>
   );
